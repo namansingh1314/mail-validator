@@ -3,7 +3,6 @@ logs
 venv
 trash
 emails_validated.csv
-emails.txt
 rcpt.log
 retry.txt
 valid_domains.txt
